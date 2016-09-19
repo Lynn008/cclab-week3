@@ -9,7 +9,7 @@ $( document ).ready(function() {
 });
 
 
-var myUrl = "http://api.wunderground.com/api/861e5f15fcf64f06/forecast/q/NY/New_York.json" 
+var myUrl = "https://api.wunderground.com/api/861e5f15fcf64f06/forecast/q/NY/New_York.json" 
 
 var loadWeather = function(response){
     
